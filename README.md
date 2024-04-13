@@ -2,21 +2,22 @@
 
 <div align="center">
 
-[<img src="https://www.gradio.app/_app/immutable/assets/gradio.8a5e8876.svg" alt="gradio" width=400>](https://gradio.app)<br>
+[<img src="https://www.gradio.app/_app/immutable/assets/gradio.8a5e8876.svg" alt="gradio" font-color=
+3fff width=400>](https://gradio.app)<br>
 
 [![gradio-backend](https://github.com/gradio-app/gradio/actions/workflows/backend.yml/badge.svg)](https://github.com/gradio-app/gradio/actions/workflows/backend.yml)
 [![gradio-ui](https://github.com/gradio-app/gradio/actions/workflows/ui.yml/badge.svg)](https://github.com/gradio-app/gradio/actions/workflows/ui.yml)  
  [![PyPI](https://img.shields.io/pypi/v/gradio)](https://pypi.org/project/gradio/)
 [![PyPI downloads](https://img.shields.io/pypi/dm/gradio)](https://pypi.org/project/gradio/)
 ![Python version](https://img.shields.io/badge/python-3.8+-important)
-[![Twitter follow](https://img.shields.io/twitter/follow/gradio?style=social&label=follow)](https://twitter.com/gradio)
+
 
 [Website](https://gradio.app)
 | [Documentation](https://gradio.app/docs/)
 | [Guides](https://gradio.app/guides/)
 | [Getting Started](https://gradio.app/getting_started/)
 | [Examples](demo/)
-| [中文](readme_files/zh-cn#readme)
+
 
 </div>
 
