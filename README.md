@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[<img src="readme_files/gradio.svg" alt="gradio" width=400>](https://gradio.app)<br>
+[<img src="https://www.gradio.app/_app/immutable/assets/gradio.8a5e8876.svg" alt="gradio" width=400>](https://gradio.app)<br>
 
 [![gradio-backend](https://github.com/gradio-app/gradio/actions/workflows/backend.yml/badge.svg)](https://github.com/gradio-app/gradio/actions/workflows/backend.yml)
 [![gradio-ui](https://github.com/gradio-app/gradio/actions/workflows/ui.yml/badge.svg)](https://github.com/gradio-app/gradio/actions/workflows/ui.yml)  
