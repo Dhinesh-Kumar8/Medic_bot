@@ -51,6 +51,7 @@ pip install gradio
 You can run Gradio in your favorite code editor, Jupyter notebook, Google Colab, or anywhere else you write Python. Let's write your first Gradio app:
 
 
+
 ```python
 import gradio as gr
 
