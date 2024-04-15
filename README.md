@@ -5,8 +5,7 @@
 [<img src="https://www.gradio.app/_app/immutable/assets/gradio.8a5e8876.svg" alt="gradio" font-color=
 3fff width=400>](https://gradio.app)<br>
 
-[![gradio-backend](https://github.com/gradio-app/gradio/actions/workflows/backend.yml/badge.svg)](https://github.com/gradio-app/gradio/actions/workflows/backend.yml)
-[![gradio-ui](https://github.com/gradio-app/gradio/actions/workflows/ui.yml/badge.svg)](https://github.com/gradio-app/gradio/actions/workflows/ui.yml)  
+
  [![PyPI](https://img.shields.io/pypi/v/gradio)](https://pypi.org/project/gradio/)
 [![PyPI downloads](https://img.shields.io/pypi/dm/gradio)](https://pypi.org/project/gradio/)
 ![Python version](https://img.shields.io/badge/python-3.8+-important)
@@ -137,6 +136,7 @@ So far, we've been discussing the `Interface` class, which is a high-level class
 
 Gradio includes another high-level class, `gr.ChatInterface`, which is specifically designed to create Chatbot UIs. Similar to `Interface`, you supply a function and Gradio creates a fully working Chatbot UI. If you're interested in creating a chatbot, you can jump straight [our dedicated guide on `gr.ChatInterface`](https://www.gradio.app/guides/creating-a-chatbot-fast).
 
+![](https://github.com/Medic_bot/demo(1).gif)
 #### Custom Demos with `gr.Blocks`
 
 Gradio also offers a low-level approach for designing web apps with more flexible layouts and data flows with the `gr.Blocks` class. Blocks allows you to do things like control where components appear on the page, handle complex data flows (e.g. outputs can serve as inputs to other functions), and update properties/visibility of components based on user interaction — still all in Python. 
@@ -167,21 +167,6 @@ Or, if you already know the basics and are looking for something specific, you c
 If you'd like to report a bug or have a feature request, please create an [issue on GitHub](https://github.com/gradio-app/gradio/issues/new/choose). For general questions about usage, we are available on [our Discord server](https://discord.com/invite/feTf9x3ZSB) and happy to help.
 
 If you like Gradio, please leave us a ⭐ on GitHub!
-
-## Open Source Stack
-
-Gradio is built on top of many wonderful open-source libraries!
-
-[<img src="readme_files/huggingface_mini.svg" alt="huggingface" height=40>](https://huggingface.co)
-[<img src="readme_files/python.svg" alt="python" height=40>](https://www.python.org)
-[<img src="readme_files/fastapi.svg" alt="fastapi" height=40>](https://fastapi.tiangolo.com)
-[<img src="readme_files/encode.svg" alt="encode" height=40>](https://www.encode.io)
-[<img src="readme_files/svelte.svg" alt="svelte" height=40>](https://svelte.dev)
-[<img src="readme_files/vite.svg" alt="vite" height=40>](https://vitejs.dev)
-[<img src="readme_files/pnpm.svg" alt="pnpm" height=40>](https://pnpm.io)
-[<img src="readme_files/tailwind.svg" alt="tailwind" height=40>](https://tailwindcss.com)
-[<img src="readme_files/storybook.svg" alt="storybook" height=40>](https://storybook.js.org/)
-[<img src="readme_files/chromatic.svg" alt="chromatic" height=40>](https://www.chromatic.com/)
 
 ## License
 
