@@ -133,16 +133,18 @@ To learn more about sharing your demo, read our dedicated guide on [sharing your
 So far, we've been discussing the `Interface` class, which is a high-level class that lets to build demos quickly with Gradio. But what else does Gradio do?
 
 #### Chatbots with `gr.ChatInterface`
-
+<img src="https://github.com/Dhinesh-Kumar8/Medic_bot/blob/main/gif/demo(1).gif" style="padding-bottom: 10px">
 Gradio includes another high-level class, `gr.ChatInterface`, which is specifically designed to create Chatbot UIs. Similar to `Interface`, you supply a function and Gradio creates a fully working Chatbot UI. If you're interested in creating a chatbot, you can jump straight [our dedicated guide on `gr.ChatInterface`](https://www.gradio.app/guides/creating-a-chatbot-fast).
 
-![](https://github.com/Medic_bot/demo(1).gif)
+
+
 #### Custom Demos with `gr.Blocks`
 
 Gradio also offers a low-level approach for designing web apps with more flexible layouts and data flows with the `gr.Blocks` class. Blocks allows you to do things like control where components appear on the page, handle complex data flows (e.g. outputs can serve as inputs to other functions), and update properties/visibility of components based on user interaction — still all in Python. 
 
 You can build very custom and complex applications using `gr.Blocks()`. For example, the popular image generation [Automatic1111 Web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) is built using Gradio Blocks. We dive deeper into the `gr.Blocks` on our series on [building with Blocks](https://www.gradio.app/guides/blocks-and-event-listeners).
 
+<img src="https://github.com/Dhinesh-Kumar8/Medic_bot/blob/main/gif/demo(2).gif" style="padding-bottom: 10px">
 
 #### The Gradio Python & JavaScript Ecosystem
 
