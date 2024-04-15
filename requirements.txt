@@ -1,0 +1,8 @@
+#required module
+openai
+time
+gradio
+messages
+dotenv
+#openai api key
+refer website https://openai.com/
